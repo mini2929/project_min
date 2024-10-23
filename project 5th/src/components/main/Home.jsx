@@ -1,5 +1,5 @@
 import Layout from '../common/Layout';
-import Visual from './Visual/Visual';
+import Visual from './Visual';
 
 export default function Home() {
 	return (
